@@ -1,0 +1,481 @@
+ID Number,Genre of Food,Expiry Status
+1,"Condiments, Dressings, Sauces & Spices",0
+3,Ready-to-cook,1
+4,"Condiments, Dressings, Sauces & Spices",0
+7,Cereal & Bakery Products,0
+8,Beverages,0
+9,Sugar-based Confectionery,0
+10,Cereal & Bakery Products,1
+11,Cereal & Bakery Products,1
+12,Cereal & Bakery Products,0
+13,Cereal & Bakery Products,1
+14,Cereal & Bakery Products,0
+15,Cereal & Bakery Products,0
+16,Cereal & Bakery Products,0
+17,Cereal & Bakery Products,0
+18,"Condiments, Dressings, Sauces & Spices",0
+19,"Condiments, Dressings, Sauces & Spices",0
+20,Ready-to-eat,0
+21,Cereal & Bakery Products,2
+22,Ready-to-cook,0
+23,Cereal & Bakery Products,0
+24,Ready-to-cook,0
+26,Cereal & Bakery Products,0
+27,Ready-to-cook,0
+28,Ready-to-cook,0
+29,"Nut, Nut Products & Seeds",0
+30,Cereal & Bakery Products,0
+31,Sugar-based Confectionery,0
+32,Ready-to-eat,0
+33,Ready-to-eat,1
+35,Ready-to-cook,0
+36,Ready-to-eat,0
+38,Cereal & Bakery Products,0
+39,Cereal & Bakery Products,1
+40,Cereal & Bakery Products,2
+42,Cereal & Bakery Products,0
+43,Cereal & Bakery Products,1
+44,Soups & Broths,0
+45,Supplements,0
+47,Ready-to-eat,1
+48,Cereal & Bakery Products,2
+49,Supplements,0
+51,Ready-to-cook,0
+53,Ready-to-eat,1
+54,Cereal & Bakery Products,0
+55,Cereal & Bakery Products,0
+58,Cereal & Bakery Products,0
+59,Cereal & Bakery Products,2
+61,Ready-to-eat,0
+62,"Nut, Nut Products & Seeds",0
+63,Ready-to-eat,1
+64,"Nut, Nut Products & Seeds",0
+65,Cereal & Bakery Products,0
+66,Ready-to-eat,1
+67,"Nut, Nut Products & Seeds",0
+68,"Nut, Nut Products & Seeds",0
+69,"Condiments, Dressings, Sauces & Spices",0
+70,Cereal & Bakery Products,0
+71,Sugar-based Confectionery,0
+72,Cereal & Bakery Products,1
+75,Cereal & Bakery Products,0
+76,Soups & Broths,0
+77,Ready-to-cook,1
+78,"Nut, Nut Products & Seeds",0
+79,Ready-to-cook,1
+81,Ready-to-cook,0
+82,"Condiments, Dressings, Sauces & Spices",0
+83,Cereal & Bakery Products,1
+84,Cereal & Bakery Products,0
+85,Beverages,0
+87,"Condiments, Dressings, Sauces & Spices",0
+88,Cereal & Bakery Products,0
+89,Ready-to-cook,1
+90,Sugar-based Confectionery,0
+91,Ready-to-cook,1
+92,Cereal & Bakery Products,0
+93,Ready-to-eat,0
+94,Cereal & Bakery Products,0
+95,Cereal & Bakery Products,0
+96,Ready-to-eat,1
+97,Cereal & Bakery Products,0
+98,Cereal & Bakery Products,0
+99,Cereal & Bakery Products,1
+100,Ready-to-cook,0
+101,"Condiments, Dressings, Sauces & Spices",0
+102,Cereal & Bakery Products,0
+103,Soups & Broths,0
+105,Ready-to-eat,1
+106,Ready-to-cook,0
+108,Cereal & Bakery Products,0
+109,"Condiments, Dressings, Sauces & Spices",0
+110,Sugar-based Confectionery,0
+111,Ready-to-cook,0
+115,Sugar-based Confectionery,0
+116,Ready-to-eat,1
+117,Sugar-based Confectionery,0
+118,Sugar-based Confectionery,0
+119,Ready-to-cook,1
+120,Supplements,0
+121,Cereal & Bakery Products,1
+122,Cereal & Bakery Products,0
+123,Ready-to-eat,1
+126,Ready-to-cook,1
+127,Ready-to-cook,0
+128,Sugar-based Confectionery,0
+129,Sugar-based Confectionery,0
+130,Sugar-based Confectionery,0
+131,Ready-to-cook,1
+133,Cereal & Bakery Products,0
+134,"Condiments, Dressings, Sauces & Spices",0
+137,Ready-to-cook,1
+139,Beverages,0
+140,Cereal & Bakery Products,0
+142,Ready-to-eat,2
+143,Ready-to-eat,0
+144,Cereal & Bakery Products,0
+145,"Condiments, Dressings, Sauces & Spices",0
+146,Ready-to-cook,0
+147,"Condiments, Dressings, Sauces & Spices",1
+149,Cereal & Bakery Products,0
+150,Cereal & Bakery Products,2
+151,Ready-to-eat,1
+152,Cereal & Bakery Products,0
+153,Cereal & Bakery Products,1
+154,Cereal & Bakery Products,0
+155,"Condiments, Dressings, Sauces & Spices",0
+156,Ready-to-cook,0
+157,Ready-to-cook,2
+158,Ready-to-cook,1
+159,Sugar-based Confectionery,0
+161,Cereal & Bakery Products,0
+162,Beverages,0
+163,Beverages,0
+164,"Condiments, Dressings, Sauces & Spices",1
+165,Cereal & Bakery Products,0
+166,Ready-to-eat,1
+167,Ready-to-eat,2
+168,Cereal & Bakery Products,0
+170,"Condiments, Dressings, Sauces & Spices",0
+171,Supplements,0
+172,Cereal & Bakery Products,0
+173,"Nut, Nut Products & Seeds",0
+174,"Condiments, Dressings, Sauces & Spices",0
+175,Beverages,0
+176,Cereal & Bakery Products,0
+177,Supplements,0
+178,"Nut, Nut Products & Seeds",0
+181,Cereal & Bakery Products,0
+182,Sugar-based Confectionery,0
+184,Ready-to-cook,0
+186,Ready-to-cook,1
+187,Ready-to-cook,2
+188,Ready-to-cook,0
+189,Ready-to-cook,0
+190,Cereal & Bakery Products,2
+191,Sugar-based Confectionery,0
+193,Cereal & Bakery Products,0
+194,"Nut, Nut Products & Seeds",0
+195,"Condiments, Dressings, Sauces & Spices",0
+196,Ready-to-cook,1
+197,Ready-to-eat,0
+198,Cereal & Bakery Products,0
+199,Ready-to-eat,1
+201,Cereal & Bakery Products,0
+202,Ready-to-eat,0
+203,Ready-to-cook,1
+204,"Condiments, Dressings, Sauces & Spices",0
+205,Sugar-based Confectionery,1
+206,Cereal & Bakery Products,0
+207,Sugar-based Confectionery,0
+208,Sugar-based Confectionery,0
+210,"Condiments, Dressings, Sauces & Spices",0
+212,Ready-to-cook,1
+213,Sugar-based Confectionery,0
+214,"Condiments, Dressings, Sauces & Spices",0
+216,Ready-to-cook,1
+217,Ready-to-eat,0
+218,Ready-to-cook,0
+219,Ready-to-cook,0
+220,Sugar-based Confectionery,0
+221,Beverages,0
+222,Cereal & Bakery Products,2
+223,"Condiments, Dressings, Sauces & Spices",0
+224,Sugar-based Confectionery,0
+225,Cereal & Bakery Products,0
+226,Cereal & Bakery Products,0
+227,Sugar-based Confectionery,0
+228,Cereal & Bakery Products,0
+229,Ready-to-cook,2
+230,Beverages,0
+231,Ready-to-cook,1
+232,"Condiments, Dressings, Sauces & Spices",0
+233,Sugar-based Confectionery,0
+234,Ready-to-cook,1
+236,Supplements,0
+237,Supplements,0
+239,Sugar-based Confectionery,0
+240,"Nut, Nut Products & Seeds",0
+241,Cereal & Bakery Products,0
+242,Ready-to-cook,1
+243,Cereal & Bakery Products,1
+245,Ready-to-cook,0
+247,Cereal & Bakery Products,0
+249,Ready-to-eat,0
+250,Ready-to-cook,1
+251,Cereal & Bakery Products,0
+252,Cereal & Bakery Products,0
+254,Cereal & Bakery Products,1
+255,Ready-to-eat,2
+256,Cereal & Bakery Products,2
+257,Ready-to-cook,0
+258,Soups & Broths,0
+259,Ready-to-cook,0
+260,Cereal & Bakery Products,1
+261,Sugar-based Confectionery,0
+262,Sugar-based Confectionery,1
+264,Cereal & Bakery Products,0
+267,Cereal & Bakery Products,0
+271,Ready-to-cook,2
+272,"Condiments, Dressings, Sauces & Spices",0
+273,Ready-to-cook,0
+274,Ready-to-cook,1
+275,Cereal & Bakery Products,1
+276,Soups & Broths,2
+277,Sugar-based Confectionery,1
+278,Ready-to-cook,1
+279,"Condiments, Dressings, Sauces & Spices",1
+281,Ready-to-eat,1
+282,Sugar-based Confectionery,0
+283,Soups & Broths,0
+284,Supplements,0
+285,Cereal & Bakery Products,1
+286,Cereal & Bakery Products,0
+287,Ready-to-cook,0
+288,Sugar-based Confectionery,0
+289,Ready-to-cook,0
+290,Cereal & Bakery Products,1
+294,Sugar-based Confectionery,1
+296,Ready-to-cook,0
+297,Sugar-based Confectionery,0
+299,Ready-to-eat,1
+300,"Condiments, Dressings, Sauces & Spices",0
+301,Cereal & Bakery Products,1
+302,Ready-to-cook,1
+303,Cereal & Bakery Products,0
+304,Cereal & Bakery Products,0
+305,Sugar-based Confectionery,0
+306,Ready-to-cook,0
+307,Sugar-based Confectionery,0
+308,"Nut, Nut Products & Seeds",0
+309,Ready-to-cook,0
+313,Sugar-based Confectionery,0
+314,Cereal & Bakery Products,0
+315,Sugar-based Confectionery,0
+317,"Condiments, Dressings, Sauces & Spices",0
+318,Ready-to-cook,0
+319,"Condiments, Dressings, Sauces & Spices",0
+320,Cereal & Bakery Products,2
+321,Sugar-based Confectionery,1
+322,Cereal & Bakery Products,2
+324,Soups & Broths,1
+325,Soups & Broths,1
+327,Cereal & Bakery Products,0
+328,Ready-to-cook,1
+329,Cereal & Bakery Products,0
+330,Sugar-based Confectionery,0
+333,Cereal & Bakery Products,2
+335,Cereal & Bakery Products,1
+336,Beverages,0
+337,Cereal & Bakery Products,1
+338,Cereal & Bakery Products,0
+340,Cereal & Bakery Products,1
+341,Sugar-based Confectionery,0
+342,"Condiments, Dressings, Sauces & Spices",0
+343,Supplements,0
+344,"Condiments, Dressings, Sauces & Spices",0
+346,Cereal & Bakery Products,0
+347,"Condiments, Dressings, Sauces & Spices",0
+348,"Condiments, Dressings, Sauces & Spices",0
+349,Ready-to-cook,0
+350,Cereal & Bakery Products,0
+351,Cereal & Bakery Products,0
+352,"Condiments, Dressings, Sauces & Spices",0
+353,Ready-to-eat,1
+354,Ready-to-cook,0
+356,Sugar-based Confectionery,0
+357,Sugar-based Confectionery,0
+358,Cereal & Bakery Products,0
+359,"Condiments, Dressings, Sauces & Spices",0
+360,Ready-to-cook,1
+361,Ready-to-eat,1
+362,Soups & Broths,0
+363,Ready-to-cook,0
+364,Ready-to-cook,2
+365,"Condiments, Dressings, Sauces & Spices",0
+366,Ready-to-eat,1
+367,Cereal & Bakery Products,0
+369,Cereal & Bakery Products,2
+370,Ready-to-cook,0
+372,"Condiments, Dressings, Sauces & Spices",0
+373,Ready-to-cook,0
+374,Ready-to-cook,0
+375,Ready-to-cook,0
+376,Cereal & Bakery Products,1
+377,Ready-to-cook,0
+378,Soups & Broths,0
+379,Cereal & Bakery Products,1
+381,"Condiments, Dressings, Sauces & Spices",1
+383,"Nut, Nut Products & Seeds",0
+384,Ready-to-cook,0
+385,Cereal & Bakery Products,0
+386,Cereal & Bakery Products,0
+387,Ready-to-cook,1
+388,Cereal & Bakery Products,0
+389,Ready-to-eat,1
+390,Sugar-based Confectionery,0
+391,Sugar-based Confectionery,0
+392,Ready-to-cook,1
+394,Cereal & Bakery Products,0
+396,"Condiments, Dressings, Sauces & Spices",0
+397,"Condiments, Dressings, Sauces & Spices",0
+399,Sugar-based Confectionery,0
+400,Sugar-based Confectionery,0
+401,Cereal & Bakery Products,1
+402,Sugar-based Confectionery,0
+403,Cereal & Bakery Products,0
+404,Soups & Broths,1
+405,Soups & Broths,0
+406,Ready-to-cook,1
+407,"Condiments, Dressings, Sauces & Spices",0
+409,Ready-to-cook,1
+410,Ready-to-cook,0
+411,Ready-to-cook,0
+412,Supplements,0
+413,Ready-to-cook,1
+415,Ready-to-eat,0
+417,Sugar-based Confectionery,0
+418,Ready-to-cook,2
+419,Ready-to-eat,0
+421,Sugar-based Confectionery,0
+423,Ready-to-eat,0
+425,Ready-to-eat,0
+426,Ready-to-eat,0
+428,Ready-to-cook,0
+430,Ready-to-cook,1
+432,Cereal & Bakery Products,2
+433,Sugar-based Confectionery,0
+441,Cereal & Bakery Products,0
+447,Ready-to-cook,0
+448,Cereal & Bakery Products,0
+449,"Condiments, Dressings, Sauces & Spices",0
+450,Ready-to-cook,2
+451,Cereal & Bakery Products,0
+452,Cereal & Bakery Products,0
+453,Sugar-based Confectionery,0
+455,"Condiments, Dressings, Sauces & Spices",0
+458,Ready-to-cook,0
+461,Cereal & Bakery Products,2
+462,Cereal & Bakery Products,0
+464,Sugar-based Confectionery,0
+465,Ready-to-cook,0
+466,Cereal & Bakery Products,0
+468,Ready-to-cook,1
+469,Ready-to-cook,0
+470,Ready-to-cook,0
+471,Beverages,0
+472,Cereal & Bakery Products,1
+473,Cereal & Bakery Products,0
+474,Cereal & Bakery Products,1
+475,Ready-to-cook,0
+477,Cereal & Bakery Products,1
+478,"Condiments, Dressings, Sauces & Spices",0
+479,Ready-to-eat,0
+480,Sugar-based Confectionery,0
+481,Cereal & Bakery Products,0
+482,Cereal & Bakery Products,0
+483,Cereal & Bakery Products,0
+484,"Condiments, Dressings, Sauces & Spices",0
+485,Ready-to-cook,1
+486,Ready-to-cook,1
+487,Ready-to-cook,0
+488,Ready-to-cook,0
+489,"Condiments, Dressings, Sauces & Spices",0
+490,Ready-to-cook,0
+491,Ready-to-cook,1
+492,Ready-to-cook,0
+494,Supplements,0
+495,Ready-to-cook,0
+497,"Condiments, Dressings, Sauces & Spices",0
+498,Cereal & Bakery Products,0
+499,Cereal & Bakery Products,0
+500,Sugar-based Confectionery,0
+501,Ready-to-cook,1
+502,Cereal & Bakery Products,0
+503,Sugar-based Confectionery,0
+504,Ready-to-eat,2
+505,"Condiments, Dressings, Sauces & Spices",0
+508,Ready-to-cook,0
+509,Sugar-based Confectionery,0
+510,Sugar-based Confectionery,0
+511,Ready-to-eat,0
+512,Sugar-based Confectionery,0
+513,Sugar-based Confectionery,0
+514,Ready-to-cook,0
+515,Ready-to-cook,2
+517,"Nut, Nut Products & Seeds",0
+518,Ready-to-cook,0
+519,Cereal & Bakery Products,0
+520,Ready-to-cook,1
+521,"Nut, Nut Products & Seeds",0
+522,"Condiments, Dressings, Sauces & Spices",0
+523,Sugar-based Confectionery,2
+524,Cereal & Bakery Products,0
+525,"Nut, Nut Products & Seeds",0
+526,Sugar-based Confectionery,0
+527,Cereal & Bakery Products,0
+528,Sugar-based Confectionery,0
+529,Cereal & Bakery Products,0
+530,Cereal & Bakery Products,1
+531,"Condiments, Dressings, Sauces & Spices",1
+532,Cereal & Bakery Products,1
+533,Cereal & Bakery Products,0
+534,Cereal & Bakery Products,0
+535,Ready-to-eat,0
+538,Cereal & Bakery Products,0
+539,Ready-to-cook,0
+541,Sugar-based Confectionery,0
+542,"Condiments, Dressings, Sauces & Spices",0
+543,"Condiments, Dressings, Sauces & Spices",1
+544,Sugar-based Confectionery,0
+545,Ready-to-eat,0
+548,Ready-to-eat,0
+549,Sugar-based Confectionery,0
+551,Cereal & Bakery Products,0
+552,Ready-to-cook,0
+554,Sugar-based Confectionery,0
+559,Ready-to-cook,1
+560,Cereal & Bakery Products,0
+562,Cereal & Bakery Products,0
+563,Cereal & Bakery Products,1
+564,Cereal & Bakery Products,0
+565,Ready-to-cook,0
+567,Cereal & Bakery Products,0
+568,Cereal & Bakery Products,0
+570,Ready-to-cook,1
+571,Cereal & Bakery Products,0
+572,Cereal & Bakery Products,0
+573,Cereal & Bakery Products,0
+574,Ready-to-eat,1
+575,Cereal & Bakery Products,0
+576,Ready-to-cook,1
+577,Ready-to-cook,1
+578,Ready-to-cook,0
+579,Cereal & Bakery Products,0
+580,Sugar-based Confectionery,0
+582,Ready-to-cook,1
+583,Ready-to-cook,0
+585,Ready-to-eat,1
+588,"Condiments, Dressings, Sauces & Spices",0
+589,Ready-to-cook,0
+590,Ready-to-cook,2
+591,Ready-to-cook,1
+592,Sugar-based Confectionery,0
+593,Beverages,0
+594,"Condiments, Dressings, Sauces & Spices",0
+595,Ready-to-cook,1
+596,Ready-to-cook,1
+597,Sugar-based Confectionery,0
+598,Ready-to-cook,1
+599,Ready-to-eat,1
+600,Ready-to-cook,1
+601,Cereal & Bakery Products,1
+602,"Condiments, Dressings, Sauces & Spices",0
+603,Ready-to-cook,1
+604,Ready-to-cook,0
+605,Cereal & Bakery Products,0
+606,Ready-to-cook,1
+607,Supplements,0
+609,Cereal & Bakery Products,1
+610,Ready-to-eat,0
+611,"Condiments, Dressings, Sauces & Spices",0
